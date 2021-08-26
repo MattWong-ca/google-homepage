@@ -1,1 +1,1 @@
-This is my second git project!
+This is my second git project! Welcome to my Google homepage.
